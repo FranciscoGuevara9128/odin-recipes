@@ -47,3 +47,11 @@ body{
 .pancakes{
     text-align: justify;
 }
+
+.foot{
+    text-align: center;
+    display: block;
+    margin: auto;
+    font-size: 20px;
+    color:red
+}
